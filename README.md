@@ -18,6 +18,6 @@ Para um maior entendimento do Design Pattern [clique aqui](https://refactoring.g
 
 :mag: Baixe o projeto e teste você mesmo na prática.
 
-Developed by Build & Run :wave:
-
 [Conheça mais sobre o nosso trabalho 😀](https://www.instagram.com/buildrun.tech/)
+
+Developed by Build & Run :wave:
