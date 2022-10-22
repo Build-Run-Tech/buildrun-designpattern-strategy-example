@@ -20,4 +20,4 @@ Para um maior entendimento do Design Pattern [clique aqui](https://refactoring.g
 
 [Conheça mais sobre o nosso trabalho 😀](https://www.instagram.com/buildrun.tech/)
 
-Developed by Build & Run :wave:
+Developed by Build & Run
